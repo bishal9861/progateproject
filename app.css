@@ -1,0 +1,43 @@
+.welcome h1 {
+    font-family: "Times New Roman";
+    text-align: center;
+    font-size: 77px;
+    font-weight:800;
+    opacity: 0.9;
+    margin-top: 20px;
+    padding-top: 160px;
+    letter-spacing: 4px;
+
+}
+.welcome h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 800;
+    opacity: 0.9;
+}
+.welcome img{
+    border: 1px solid rgb(243, 243, 243);
+    
+    border-radius: 150px;
+    padding:40px 2px 30px 40px;
+    box-shadow: cornsilk;
+    transition: all 0.5s;
+    
+
+}
+body{
+    background-image:url("https://images.unsplash.com/photo-1509624776920-0fac24a9dfda?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTU3fHxwb3J0Zm9saW8lMjBiYWNrZ3JvdW5kfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.welcome{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+    ;
+}
+.icons{
+    font-size: 45px;
+    color: black;
+    letter-spacing: 10px;
+
+}
